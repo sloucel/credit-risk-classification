@@ -80,6 +80,4 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-
-    The Logistcial Regression Model does an excellent job of predicting a 'healthly loan' across precision, recall, and F1-Score, and does a good job of predicting a 'high risk loan' across precision, recall, and f1-score.   In other words the model does a better job of predicting the healthy loans vs the high risk loans. While the overall F1-score is high (0.94), the F1-score for Class 1 (0.88) indicates room for improvement, especially if the goal is to accurately identify default loans.
+The Logistcial Regression Model does an excellent job of predicting a 'healthly loan' across precision, recall, and F1-Score, and does a good job of predicting a 'high risk loan' across precision, recall, and f1-score.   In other words the model does a better job of predicting the healthy loans vs the high risk loans. While the overall F1-score is high (0.94), the F1-score for Class 1 (0.88) indicates room for improvement, especially if the goal is to accurately identify default loans.
